@@ -61,7 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				6933AC452225DA4E00B43A32 /* Info.plist */,
-				69D23E71223EB8CC00C67573 /* Bullshit */,
+				69D23E71223EB8CC00C67573 /* Assets */,
 				69D23E70223EB8BF00C67573 /* Controller */,
 				69D23E6F223EB8AD00C67573 /* Model */,
 				6933AC3D2225DA4D00B43A32 /* Main.storyboard */,
@@ -87,14 +87,14 @@
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		69D23E71223EB8CC00C67573 /* Bullshit */ = {
+		69D23E71223EB8CC00C67573 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
 				6933AC392225DA4D00B43A32 /* AppDelegate.swift */,
 				6933AC402225DA4E00B43A32 /* Assets.xcassets */,
 				6933AC422225DA4E00B43A32 /* LaunchScreen.storyboard */,
 			);
-			path = Bullshit;
+			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
